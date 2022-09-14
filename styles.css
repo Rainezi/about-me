@@ -2,7 +2,7 @@ body{
 
     margin: 0;
     padding: 0;
-    background: url(assets/background.png) no-repeat;
+    background: url(/assets/background.png) no-repeat;
     background-size: cover;
 
 }
@@ -16,8 +16,8 @@ body{
     text-align: center;
     margin: auto;
     margin-top: 5%;
+    font-family: 'MinecraftiaRegular';
     color: white;
-    font-family: Minecraftia;
     border-radius: 100px;
 
 }
@@ -32,9 +32,9 @@ body{
 
 .box h1{
 
-    font-size: 35px;
+    font-size: 33px;
     letter-spacing: 1px;
-    margin-top: -1px;
+    margin-top: -15px;
     font-weight: 100;
 
 }
@@ -51,13 +51,14 @@ body{
     font-size: 20px;
     letter-spacing: 2px;
     font-weight: 100;
-    margin-top: -9%;
+    margin-top: -5%;
 
 }
 
 .box p{
 
     text-align: center;
+    margin-top: 10%;
     line-height: 35px;
 
 }
@@ -66,7 +67,7 @@ ul{
     
     margin: 0;
     padding: 0;
-    margin-top: -15%;
+    margin-top: -10%;
 
 }
 
@@ -92,6 +93,3 @@ ul{
     color: #b9b9b9;
 
 }
-  
-
-
