@@ -2,7 +2,7 @@ body{
 
     margin: 0;
     padding: 0;
-    background: url(assets/background.png) no-repeat;
+    background: url(/assets/background.png) no-repeat;
     background-size: cover;
 
 }
@@ -41,8 +41,8 @@ body{
 
 .portugal{
 
-    height: 35px;
-    margin-top: 13px;
+    height: 40px;
+    margin-top: 15px;
     margin-bottom: -3px;
     margin-left: -7px;
 
